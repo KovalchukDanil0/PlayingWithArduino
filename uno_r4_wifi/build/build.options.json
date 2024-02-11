@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../../..,../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:renesas_uno:unor4wifi",
+  "hardwareFolders": "/home/gomofob/.arduino15/packages",
+  "otherLibrariesFolders": "/home/gomofob/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/gomofob/Projects/Arduino/uno_r4_wifi"
+}

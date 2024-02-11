@@ -1,0 +1,8 @@
+#line 1 "/home/gomofob/Projects/Arduino/nano_esp32/.vscode/arduino.json"
+{
+    "sketch": "nano_esp32.ino",
+    "output": "build",
+    "configuration": "PartitionScheme=default,PinNumbers=default,USBMode=default",
+    "board": "arduino:esp32:nano_nora",
+    "port": "/dev/ttyACM0"
+}

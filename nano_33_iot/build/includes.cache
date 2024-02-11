@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/samd/1.8.13/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/samd/1.8.13/variants/nano_33_iot"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_33_iot/build/sketch/nano_33_iot.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

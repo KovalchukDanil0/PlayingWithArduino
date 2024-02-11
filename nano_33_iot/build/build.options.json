@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "arduino:samd:nano_33_iot",
+  "hardwareFolders": "/home/gomofob/.arduino15/packages",
+  "otherLibrariesFolders": "/home/gomofob/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/gomofob/Projects/Arduino/nano_33_iot"
+}

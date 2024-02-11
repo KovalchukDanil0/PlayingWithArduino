@@ -1,0 +1,117 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/cores/esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/variants/arduino_nano_nora"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_esp32/build/sketch/nano_esp32.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_esp32/build/sketch/nano_esp32.ino.cpp",
+    "Include": "HTTPClient.h",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/HTTPClient/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_esp32/build/sketch/nano_esp32.ino.cpp",
+    "Include": "WiFiClientSecure.h",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFiClientSecure/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_esp32/build/sketch/nano_esp32.ino.cpp",
+    "Include": "Arduino_JSON.h",
+    "Includepath": "/home/gomofob/Arduino/libraries/Arduino_JSON/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/nano_esp32/build/sketch/nano_esp32.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiAP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiGeneric.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiSTA.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiScan.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFi/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/HTTPClient/src/HTTPClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFiClientSecure/src/WiFiClientSecure.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFiClientSecure/src/esp_crt_bundle.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/libraries/WiFiClientSecure/src/ssl_client.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/Arduino/libraries/Arduino_JSON/src/JSON.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/Arduino/libraries/Arduino_JSON/src/JSONVar.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/Arduino/libraries/Arduino_JSON/src/cjson/cJSON.c",
+    "Include": "",
+    "Includepath": null
+  }
+]

@@ -1,0 +1,4 @@
+#line 1 "/home/gomofob/Projects/Arduino/nano_esp32/.vscode/settings.json"
+{
+  "sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json"
+}

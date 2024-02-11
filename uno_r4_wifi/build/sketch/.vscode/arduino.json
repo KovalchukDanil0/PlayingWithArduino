@@ -1,0 +1,7 @@
+#line 1 "/home/gomofob/Projects/Arduino/uno_r4_wifi/.vscode/arduino.json"
+{
+    "sketch": "uno_r4_wifi.ino",
+    "output": "build",
+    "board": "arduino:renesas_uno:unor4wifi",
+    "port": "/dev/ttyACM0"
+}

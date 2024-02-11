@@ -1,0 +1,20 @@
+/home/gomofob/Projects/Arduino/nano_esp32/build/core/WMath.cpp.o: \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/cores/esp32/WMath.cpp \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_system/include/esp_system.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_err.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_compiler.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_attr.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_bit_defs.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_idf_version.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_hw_support/include/esp_mac.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_hw_support/include/esp_chip_info.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_hw_support/include/esp_random.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/cores/esp32/esp32-hal-log.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_timer/include/esp_timer.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/log/include/esp_log.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_rom/include/esp_rom_sys.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/reset_reasons.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_rom/include/esp32s3/rom/ets_sys.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/soc/esp32s3/include/soc/soc.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/esp_common/include/esp_assert.h \
+ /home/gomofob/.arduino15/packages/arduino/hardware/esp32/2.0.13/tools/sdk/esp32s3/include/log/include/esp_log_internal.h

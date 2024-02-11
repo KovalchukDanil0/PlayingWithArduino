@@ -1,0 +1,67 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/variants/UNOWIFIR4"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp",
+    "Include": "Arduino_LED_Matrix.h",
+    "Includepath": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/Arduino_LED_Matrix/src"
+  },
+  {
+    "Sourcefile": "/home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/Modem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/StringHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFi.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiFileSystem.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiSSLClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

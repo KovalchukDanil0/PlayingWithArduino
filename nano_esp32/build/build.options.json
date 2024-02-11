@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..,../../..,../..,../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "arduino:esp32:nano_nora:PartitionScheme=default,PinNumbers=default,USBMode=default",
+  "hardwareFolders": "/home/gomofob/.arduino15/packages",
+  "otherLibrariesFolders": "/home/gomofob/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/gomofob/Projects/Arduino/nano_esp32"
+}

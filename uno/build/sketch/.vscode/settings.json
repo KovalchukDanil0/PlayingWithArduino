@@ -1,0 +1,5 @@
+#line 1 "/home/gomofob/Projects/Arduino/UNO/.vscode/settings.json"
+{
+  "sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json",
+  "cSpell.words": ["piezo"]
+}
