@@ -1,4 +1,4 @@
-/home/gomofob/Projects/Arduino/uno_r4_wifi/build/core/vector_table.c.o: \
+/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/build/core/vector_table.c.o: \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/vector_table.c \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/variants/UNOWIFIR4/includes/ra/fsp/inc/api/bsp_api.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/variants/UNOWIFIR4/includes/ra/fsp/inc/fsp_common_api.h \

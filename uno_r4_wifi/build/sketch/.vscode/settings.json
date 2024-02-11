@@ -1,4 +1,4 @@
-#line 1 "/home/gomofob/Projects/Arduino/uno_r4_wifi/.vscode/settings.json"
+#line 1 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/.vscode/settings.json"
 {
   "sonarlint.pathToCompileCommands": "${workspaceFolder}/build/compile_commands.json"
 }

@@ -1,4 +1,4 @@
-/home/gomofob/Projects/Arduino/uno_r4_wifi/build/libraries/WiFiS3/WiFiSSLClient.cpp.o: \
+/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/build/libraries/WiFiS3/WiFiSSLClient.cpp.o: \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiSSLClient.cpp \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiSSLClient.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiCommands.h \

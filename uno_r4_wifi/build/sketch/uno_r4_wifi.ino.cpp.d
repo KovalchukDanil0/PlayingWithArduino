@@ -1,5 +1,5 @@
-/home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp.o: \
- /home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp \
+/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp.o: \
+ /home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/build/sketch/uno_r4_wifi.ino.cpp \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/Arduino.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/api/ArduinoAPI.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/api/Binary.h \
@@ -86,7 +86,7 @@
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/api/deprecated-avr-comp/avr/dtostrf.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/variants/UNOWIFIR4/pins_arduino.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/cores/arduino/usb/USB.h \
- /home/gomofob/Projects/Arduino/uno_r4_wifi/build/sketch/arduino_secrets.h \
+ /home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/build/sketch/arduino_secrets.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFi.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiCommands.h \
  /home/gomofob/.arduino15/packages/arduino/hardware/renesas_uno/1.0.5/libraries/WiFiS3/src/WiFiTypes.h \

@@ -1,4 +1,4 @@
-# 1 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+# 1 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
 /*
 
   Rui Santos
@@ -18,10 +18,10 @@
   copies or substantial portions of the Software.
 
 */
-# 12 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
-# 13 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
+# 12 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+# 13 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
 
-# 15 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
+# 15 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
 
 const char *ssid = "O2-Internet-052";
 const char *password = "dCPCCPGBAX";
@@ -37,7 +37,7 @@ unsigned long lastTime = 0;
 // Set timer to 5 seconds (5000)
 unsigned long timerDelay = 5000;
 
-# 31 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
+# 31 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino" 2
 
 ArduinoLEDMatrix matrix;
 

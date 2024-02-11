@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+#line 1 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
 /*
   Rui Santos
   Complete project details at Complete project details at https://RandomNerdTutorials.com/esp32-http-get-post-arduino/
@@ -43,11 +43,11 @@ byte wifiConnected[8][12] = {
     {0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0},
     {0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
 
-#line 44 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+#line 44 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
 void setup();
-#line 63 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+#line 63 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
 void loop();
-#line 44 "/home/gomofob/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
+#line 44 "/home/gomofob/Documents/Projects/Arduino/uno_r4_wifi/uno_r4_wifi.ino"
 void setup()
 {
     Serial.begin(115200);
